@@ -1,0 +1,9 @@
+Main.class
+JsonHelper.class
+ru/qatools/json2pojo/beans/PositiveCases.class
+ru/qatools/json2pojo/beans/Row.class
+ru/qatools/json2pojo/beans/ConfigKey.class
+ru/qatools/json2pojo/beans/Status.class
+ru/qatools/json2pojo/beans/MyTestJSON.class
+ru/qatools/json2pojo/beans/Config.class
+ru/qatools/json2pojo/beans/Querystring.class

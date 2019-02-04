@@ -1,0 +1,25 @@
+{
+  "current_page": 2,
+  "rows_per_page": 2,
+  "page_count": 2,
+  "rows_count": 2,
+  "rows": [
+    {
+      "number": 22,
+      "date": 11,
+      "k_all": "ddh",
+      "k_found": "rsr",
+      "newString": "rsr",
+      "type_name": "kkk"
+    },
+
+    {
+      "number": 23,
+      "date": 123,
+      "k_all": "ddh",
+      "k_found": "rsr",
+      "newString": "rsr",
+      "type_name": "kkk"
+    }
+  ]
+}

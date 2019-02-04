@@ -1,0 +1,63 @@
+{
+  "querystring": [
+    {
+      "location": "55.758240,37.612810",
+      "key": "configKey",
+      "radius": "1"
+    },
+    {
+      "location": "-23.542858,-46.637806",
+      "key": "configKey",
+      "radius": "50000"
+    },
+    {
+      "location": "40.765738,-73.978194",
+      "key": "apiKey",
+      "radius": "500"
+    },
+    {
+      "location": "40.765738,-73.978194",
+      "key": "apiKey",
+      "radius": "500",
+      "rankby": "prominence"
+    },
+    {
+      "location": "-33.840106,150.999246",
+      "key": "apiKey",
+      "rankby": "distance"
+    },
+    {
+
+      "key": "apiKey",
+      "radius": "40000"
+    },
+    {
+      "location": "-90,-180",
+      "key": "apiKey",
+      "radius": "40000"
+    }
+  ],
+  "statuses": [
+    {
+      "status": "OK"
+    },
+    {
+      "status": "OK"
+    },
+    {
+      "status": "OK"
+    },
+    {
+      "status": "OK"
+    },
+    {
+      "status": "OK"
+    },
+    {
+      "status": "OK"
+    },
+    {
+      "status": "OK"
+    }
+  ]
+}
